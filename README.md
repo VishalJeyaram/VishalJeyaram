@@ -1,8 +1,7 @@
 ### Hi there, I'm Vishal 👋
 
 🎓 Recent Computer Engineering graduate from NUS  
-💡 Passionate about Software Engineering, XR, VFX, and Human-Centered Design  
-📚 Exploring: Unity, 3D Animation, Machine Learning  
+💡 Passionate about Software Engineering and Creative Technology
 🛠️ Tech Stack: React, Node.js, TypeScript, Python, Django, Unity, C++, MySQL  
 
 ### 📫 Connect with Me
