@@ -5,7 +5,13 @@
 > Passionate about building human-centered technologies with measurable impact.
 
 ## 🚀 Tech Stack
-**React · Node.js · Python · C++ · MySQL · AWS** 
+**Programming Languages: Python, C, C++, Java, JavaScript, TypeScript** 
+**Frameworks & Libraries: React, Angular, Spring Boot, TensorFlow, Django, PyTorch, Node.js, Flutter** 
+**Databases: MySQL, Firebase** 
+**Tools and Platforms: Git, Docker, Unity, Figma, Blender** 
+**Cloud & DevOps: AWS, Azure** 
+**Soft Skills: Leadership, Adaptability, Problem-solving, Creativity** 
+
 
 ## 📫 Let’s Connect
 
