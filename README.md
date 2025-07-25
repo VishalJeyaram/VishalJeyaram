@@ -48,7 +48,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vishaljeyaram)  
 [![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github)](https://github.com/VishalJeyaram)  
-[![Portfolio Website](https://img.shields.io/badge/🔗-Portfolio-blue?style=flat&logo=google-chrome)](https://vishaljeyaram-portfolio.netlify.app/) Check out my portfolio, this took me a very long time to make :)
+[![Portfolio Website](https://img.shields.io/badge/🔗-Portfolio-blue?style=flat&logo=google-chrome)](https://vishaljeyaram-portfolio.netlify.app/)              
+Please check out my portfolio, this took me a very long time to make :)
 
 ---
 
