@@ -5,18 +5,51 @@
 > Passionate about building human-centered technologies with measurable impact.
 
 ## 🚀 Tech Stack
-> Programming Languages: Python, C, C++, Java, JavaScript, TypeScript
-> Frameworks & Libraries: React, Angular, Spring Boot, TensorFlow, Django, PyTorch, Node.js, Flutter 
-> Databases: MySQL, Firebase
-> Tools and Platforms: Git, Docker, Unity, Figma, Blender
-> Cloud & DevOps: AWS, Azure
-> Soft Skills: Leadership, Adaptability, Problem-solving, Creativity
+- **Programming Languages:**  
+  Python  
+  C  
+  C++  
+  Java  
+  JavaScript  
+  TypeScript
 
+- **Frameworks & Libraries:**  
+  React  
+  Angular  
+  Spring Boot  
+  TensorFlow  
+  Django  
+  PyTorch  
+  Node.js  
+  Flutter
+
+- **Databases:**  
+  MySQL  
+  Firebase
+
+- **Tools and Platforms:**  
+  Git  
+  Docker  
+  Unity  
+  Figma  
+  Blender
+
+- **Cloud & DevOps:**  
+  AWS  
+  Azure
+
+- **Soft Skills:**  
+  Leadership  
+  Adaptability  
+  Problem-solving  
+  Creativity
 
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vishaljeyaram)  
 [![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github)](https://github.com/VishalJeyaram)  
+[![Portfolio Website]()]([https://github.com/VishalJeyaram](https://vishaljeyaram-portfolio.netlify.app/))  
+
 ---
 
 *Thank you for stopping by!*  
