@@ -5,14 +5,7 @@
 > Passionate about building human-centered technologies with measurable impact.
 
 ## 🚀 Tech Stack
-
-| Frontend             | Backend             | Cloud & DB      | Other Tools                |
-| -------------------- | ------------------- | --------------- | -------------------------- |
-| React ·  | Node.js · Express   | AWS · MySQL     | Docker · Git · Jest        |
-| React Three Fiber    | Python · Flask      | PostgreSQL      | PlantUML · Figma           |
-| HTML5 · CSS3 · Tailwind | C++ · Arduino SDK  | Firebase        | Selenium · Vite            |
-
----
+**React · Node.js · Python · C++ · MySQL · AWS** 
 
 ## 📫 Let’s Connect
 
