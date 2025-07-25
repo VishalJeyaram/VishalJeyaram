@@ -1,6 +1,6 @@
 # 👋 Hello there, I’m Vishal Jeyaram
 
-🎓 **Software Engineer with hands-on experience across full-stack development, research, and healthtech innovation. Proven track record delivering scalable web applications and accessibility-focused solutions across government, clinical, and startup environments. Passionate about developing human-centered technologies with measurable impact.
+🎓 Software Engineer with hands-on experience across full-stack development, research, and healthtech innovation. Proven track record delivering scalable web applications and accessibility-focused solutions across government, clinical, and startup environments. Passionate about developing human-centered technologies with measurable impact.
 💡 Passionate about **Software Engineering** & **Creative Technology**  
 🛠️ Tech Stack: **React · Node.js · Python · C++ · MySQL · AWS**  
 
