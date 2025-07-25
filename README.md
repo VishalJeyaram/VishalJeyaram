@@ -48,7 +48,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vishaljeyaram)  
 [![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github)](https://github.com/VishalJeyaram)  
-[![Portfolio Website]()]([https://github.com/VishalJeyaram](https://vishaljeyaram-portfolio.netlify.app/))  
+[![Portfolio Website](https://img.shields.io/badge/🔗-Portfolio-blue?style=flat&logo=google-chrome)](https://vishaljeyaram-portfolio.netlify.app/)
 
 ---
 
