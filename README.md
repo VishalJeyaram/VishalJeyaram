@@ -1,4 +1,4 @@
-# 👋 Hello there, I’m **Vishal Jeyaram**
+# 👋 Hello there! I’m **Vishal!**
 
 > Software Engineer with hands-on experience in full-stack development, research, and healthtech innovation.  
 > Proven track record delivering scalable web applications and accessibility-focused solutions across government, clinical, and startup environments.  
